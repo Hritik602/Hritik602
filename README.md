@@ -1,6 +1,4 @@
 ### Hi Hritik  here 👋
-
-- 🔭 I’m currently working on E-Commerce projects
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter 
 - 📫 How to reach me: LinkedIn:https://www.linkedin.com/in/hritikrajkarn/
