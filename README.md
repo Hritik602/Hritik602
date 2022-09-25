@@ -6,4 +6,5 @@
 ### Connect me On :
 <p align="left">
 <a href = "https://www.linkedin.com/in/hritikrajkarn/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/KarnHritik"><img src="https://www.clipartmax.com/png/middle/131-1317734_press-kit-font-awesome-twitter-icon.png"/></a>
 </p>
