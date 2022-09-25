@@ -5,7 +5,7 @@
 
 <!--<a href="https://github.com/Hritik602/github-readme-activity-graph"><img alt="Hritik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hritik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>--!>
 
-###Connect me on :
+## Connect me on :
 <p align="left">
 <a href = "https://www.linkedin.com/in/hritikrajkarn/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/KarnHritik"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
