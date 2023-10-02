@@ -11,6 +11,4 @@
 </p>
 
 ## Language Tools
-<p align="left">
-<a href = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritik602)](https://github.com/hritik602/github-readme-stats)"/></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
