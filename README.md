@@ -9,3 +9,8 @@
 <a href = "https://www.linkedin.com/in/hritikrajkarn/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/KarnHritik"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 </p>
+
+## Language Tools
+<p align="left">
+<a href = "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hritik602)](https://github.com/hritik602/github-readme-stats)"/></a>
+</p>
