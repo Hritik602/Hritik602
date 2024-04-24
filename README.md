@@ -12,6 +12,4 @@
 
 ## Language Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik602)](https://github.com/Hritik602/github-readme-stats)
-<img src="https://raw.githubusercontent.com/Hritik602/Hritik602/output/snake.svg" alt="Snake animation" />
 
-###
