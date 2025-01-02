@@ -40,6 +40,19 @@ Mobile App Developer focused on crafting high-quality, tested applications acros
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik602)](https://github.com/Hritik602/github-readme-stats)
 
+
+## 💻 Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+</p>
+
 ## 🤝 Let's Connect!
 
 <p align="left">
