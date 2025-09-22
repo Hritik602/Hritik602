@@ -2,8 +2,8 @@
 
 Mobile App Developer focused on crafting high-quality, tested applications across platforms.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hritik602&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[hritik602 github-trophies](https://stats.dooboo.io/api/github-trophies?login=hritik602)
+<img src="https://stats.dooboo.io/api/github-trophies?login=hritik602">
+
 
 ## 🛠️ Tech Stack
 
